@@ -1,0 +1,7 @@
+name: flutter_risk_scans
+description: AsyncValue.value scanner for Flutter apps.
+publish_to: none
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  analyzer: any
